@@ -34,5 +34,5 @@ export default [
         title: 'Tip 6',
         description: 'Better to stay home and feel healthy',
         image: require('./src/assets/images/6r.png'),
-    },
+    }
 ]
