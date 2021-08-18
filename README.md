@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/55031190/129876707-d7d74d56-a32b-4922-b920-10382c62877b.png">
+    <img src="https://user-images.githubusercontent.com/55031190/129877504-3c8e0f85-b545-4cd4-9575-a0b0117f15a3.png">
 </p>
 
 <h1 align="center">DuHealth App</h1>
