@@ -12,7 +12,7 @@
 # Sections 📚
 
 ✍ Splash Screen 💦\
-✍ Swipe Screen 🤜\
+✍ Swipe Screens 🤜\
 ✍ Home Dashboard Screen 🏠\
 
 
