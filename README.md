@@ -4,5 +4,14 @@
 
 <h1 align="center">DuHealth App</h1>
 
-**DuHealth** is a Frontend UI Design built with React Native.
+**DuHealth** is a Healthcare Frontend UI Design built with React Native.
+
+⭐ Star me on GitHub — it helps!
+
+
+# Sections 📚
+
+✍ Splash Screen 💦\
+✍ Swipe Screen 🤜\
+✍ Home Dashboard Screen 🏠\
 
