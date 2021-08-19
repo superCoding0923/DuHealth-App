@@ -28,10 +28,10 @@
   - This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
   - Run the frontend
-        - ```
-          # cd duhealth
-          $ npm install
-          $ npm start
-          ```
+   - ```
+     # cd duhealth
+     $ npm install
+     $ npm start
+     ```
 
 
