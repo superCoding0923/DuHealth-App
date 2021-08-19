@@ -34,4 +34,18 @@
      $ npm start
      ```
 
+# Features 🔌
+
+- Splash
+- Horizontal Swiper
+- Pagination Button
+- Deck Cards tinder effect
+- Scrollview 
+
+# Technologies used 🛠️
+
+- React Native
+- Async Storage (saves data persistently in the emulator)
+- React Chart Kit (to render graph, bar, pie, line charts)
+- React Svg (toolkit for vector graphics)
 
