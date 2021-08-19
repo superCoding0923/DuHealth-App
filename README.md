@@ -49,3 +49,14 @@
 - React Chart Kit (to render graph, bar, pie, line charts)
 - React Svg (toolkit for vector graphics)
 
+
+# Screenshots Walkthrough :- 📷
+
+| Splash Screen | Swipe Screen 1 | Swipe Screen 2 | Swipe Screen 3 |
+| --- | --- | --- | --- |
+| ![Splash Screen](https://user-images.githubusercontent.com/55031190/130017088-9944793d-ae6f-4710-a1ad-b4513bcf523d.png) | ![Swipe Screen 1](https://user-images.githubusercontent.com/55031190/130017274-b39e2b20-e4f6-4b30-a8ed-acae66c8ea37.png) | ![Swipe Screen 2](https://user-images.githubusercontent.com/55031190/130017326-8460659f-9cad-446f-936d-77deb537499c.png) | ![Swipe Screen 3](https://user-images.githubusercontent.com/55031190/130017383-7fae08f8-aff7-48ff-9813-35c4d2fe01e7.png) |
+
+| Swipe Screen 4 | Swipe Screen 5 | Swipe Screen 6 | Dashboard Screen |
+| --- | --- | --- | --- |
+| ![Swipe Screen 4]() | ![Swipe Screen 5]() | ![Swipe Screen 6]() | ![Dashboard Screen]() |
+
