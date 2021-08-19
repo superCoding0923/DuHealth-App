@@ -40,7 +40,7 @@ export default class Chart extends Component{
                         propsForDots:{
                             r:'6',
                             strokeWidth:"2",
-                            stroke:"red"
+                            stroke:"#662d91"
                         },
                     }}
                     bezier
